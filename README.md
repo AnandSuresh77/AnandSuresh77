@@ -1,4 +1,4 @@
-PYTHON FULL STACK DEVELOPER 
+ Anand S —  Python Full Stack Developer | Problem Solver | Learner
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anands77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandsuresh2222@gmail.com) 
 
