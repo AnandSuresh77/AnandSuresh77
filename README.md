@@ -30,7 +30,7 @@
 
 ## 🤝 Let’s Connect
 📧 **Email:** anandsuresh2222@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/anands77 
+🔗 **LinkedIn:** www.linkedin.com/in/anands77
 📍 Kerala, India
 
 ---
