@@ -12,7 +12,7 @@
 ## 🎓 Experience
 
 ### **Full Stack Python Development Intern — Kompetenzen Technologies**  
-*Mar 2025 – Present*  
+*July 2025 – Present*  
 - Working with Python, React, MongoDB  
 - Building and structuring REST APIs  
 - Creating scalable, responsive UI screens  
